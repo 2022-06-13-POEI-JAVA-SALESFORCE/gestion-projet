@@ -27,7 +27,7 @@
 3. **Priorisez** les risques. 
 Sur *Jira*, utilisez l'app *Risk register*, filtrez en sélectionnant les tickets *Risk*, évaluez la probabilité et l'impact pour en déduire la criticité du risque.
 
-4. Proposez des **contre-mesures préventives et/ou de réparations** pour chaque risque identifier.
+4. Proposez des **contre-mesures préventives et/ou de réparations** pour chaque risque identifié.
 
 ---
 
