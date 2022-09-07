@@ -10,10 +10,12 @@
  - [Site pour générer un burndown chart](https://easyretro.io/burndown-chart-generator/)
 - Pour les méthodologies classiques
  - [Le diagramme de Gantt](./ressources/gantt/modele_diagramme_gantt.xltx)
+- Pour les salaires, utilisez les données de [talent.com](https://fr.talent.com/salary)
+- Pour les cotisations sociales, utilisez le simulateur de [Pole emploi](https://entreprise.pole-emploi.fr/cout-salarie/)
 
 ---
 
-## Informations supplémentaires obtenus lors de votre entretien avec le client
+## Informations supplémentaires obtenues lors de votre entretien avec le client
 
 **PS : toute la restitution de l'entretien est fictive.**
 
@@ -23,7 +25,7 @@
 
 - Situé à Issy-les-moulineaux
 
-- Je suis bien référencé sur Google et je consacre beaucoup de temps pour montrer mon travail sur les réseaux sociaux et mon blog.
+- Je suis bien référencé sur Google et je consacre beaucoup de temps pour montrer mon travail sur les réseaux sociaux et mon blog
 
 - Je travaille seule en déplacement ou dans mon studio photo
 
@@ -43,7 +45,7 @@
 
 1. Quels sont les objectifs de ce projet ?
 
-- J'aimerai tout simplement consacrer moins de temps dans la gestion de mon activité concernant la gestion de mon activité sur la partie client, contrats et séances. J'y consacre au moins 2 journées par semaine pour gérer mes clients, contrats et séances.
+J'aimerai tout simplement consacrer moins de temps dans la gestion de mon activité sur la partie client, contrats et séances. J'y consacre au moins 2 journées par semaine pour gérer mes clients, contrats et séances.
 
 2. Qu'est-ce vous entendez par gestion des clients ?
 
@@ -55,26 +57,22 @@ Pour être honnête, je n'y ai pas encore réfléchi.
 
 4. On pourra préciser cela plus tard, je vous laisse le temps d'y réfléchir. Nous pourrons éventuellement organiser un brainstorming ensemble pour voir cela une prochaine fois.
 
+5. Quel est pour vous le meilleur système de signature de contrats que l'on pourrait développer pour vous pour satisfaire entièrement vos besoins ?
 
-5. Quel est pour vous le meilleur système de signature de contrats que l'on pour développer pour vous ?
 J'effectue des prestations pour mes proches à des tarifs préférentiels, j'aimerai pouvoir les séparer du reste.
-Ensuite j'ai plusieurs templates de contrat qui ont été réalisé par un cabinet de juriste pour mes différentes prestations. Je préremplie les cases avec les informations du client, j'envoie par mail et j'attends que le client me renvoi le contrat signé.
+Ensuite j'ai plusieurs templates de contrat qui ont été réalisé par un cabinet de juriste pour mes différentes prestations. Je préremplie les cases avec les informations du client, j'envoie par mail et j'attends que le client me renvoi le contrat signé. J'aimerai que toute cette partie soit automatisé.
 
-6. S'agit-il d'un devis commercial ?
+#### Restitution des autres besoins informations obtenues lors de ce même entretien
 
-Oui c'est le cas.
-
-#### Restitution des autres besoins obtenues lors de ce même entretien
-
-- Lors des shootings, j'aimerai que les photos puissent être mise à disposition facilement et rapidement aux clients.
+- Lors des shootings, j'aimerai que les photos puissent être mise à disposition facilement et rapidement aux clients, une fois qu'elles ont été retouchées sur mon logiciel photo.
 
 - Pour le moment le paiement se fait en physique après le shooting, lorsqu'ils doivent payer en plusieurs on s'arrange comme on peut.
 
-- J'aimerai que les e-mails se déclenchent à des moments clés de mon activité pour mes clients, ça leur fait un rappel pour qu'il puisse respecter leur engagement.
+- J'aimerai que les e-mails se déclenchent à des moments clés de mon activité pour mes clients, ça leur fait un rappel pour qu'il puisse respecter leurs engagements. J'aimerai passer moins de temps à faire des rappels pour les rendez-vous et les relances pour la facturation.
 
-- J'utilise Google Agenda au quotidien, j'aimerai synchroniser les événements avec les 2 agendas.
+- J'utilise Google Agenda au quotidien pour toute mon activité.
 
-- Je pense viser une clientèle à l'international du fait de ma localisation, j'ai de plus en plus des demandes des étranger qui viennent se marier ou passer leur lune de miel sur Paris. J'aurai peut-être besoin d'une nouvelle catégorie de client "clients internationales".
+- Je pense viser une clientèle à l'international du fait de ma localisation, j'ai de plus en plus des demandes des étrangers qui viennent se marier ou passer leur lune de miel à Paris. J'aurai peut-être besoin d'une nouvelle catégorie "clients internationales" mais je ne sais pas encore car je n'ai pas pu consacrer du temps à l'étude de cette opportunité.
 
 - Je reporte toute mon activité sur un fichier Excel avec plusieurs onglets, cela me prend énormément de temps.
 
@@ -84,30 +82,37 @@ Oui c'est le cas.
 
 ## Enoncé
 
-1. En tenant compte des nouveaux éléments apportés par le client, choisissez la **méthodologie de gestion de projet** la plus adaptée à appliquer pour ce projet et **la solution**.
+1. En tenant compte des nouveaux éléments apportés par le client et de vos travaux précédents, choisissez la **méthodologie de gestion de projet** la plus adaptée à appliquer pour ce projet.
 
 ### Uniquement pour les méthodes agiles
 
-2.1 **Constituez votre backlog** (ajouter des User stories par rapport aux besoins exprimées)
+2.1 **Constituez votre backlog** (ajouter des *Epics* et *User stories*).
 
-2.2 Utilisez **le planning poker** pour estimer la totalité de votre backlog (la méthode d'extreme quotation est plus adaptée mais difficile de mettre en place dans notre contexte)
+2.2 Utilisez **le planning poker** pour estimer la totalité de votre backlog.
+La méthode d'[Extreme Quotation](https://blog.myagilepartner.fr/index.php/2017/04/19/extreme-quotation/) est plus adaptée mais difficile de mettre en place dans notre contexte.
 
-2.3 Définissez la durée de votre sprint
+2.3 Déterminez la durée des sprints (entre 1 et 4 semaines).
 
 2.4 Estimez le nombre de complexité que votre équipe peut réaliser au cours d'un sprint, en déduire le nombre total des sprints nécessaire pour réaliser l'intégralité des *US* présents dans votre backlog.
 
-2.5 Établissez le burndown chart idéale à partir du [lien suivant](https://easyretro.io/burndown-chart-generator/) 
+2.5 Établissez le burndown chart idéale à partir du [lien suivant](https://easyretro.io/burndown-chart-generator/).
 
-2.6 Définir le budget previsionnel
+2.6 Calculez le budget prévisionnel sans appliquer la marge commerciale pour le moment.
+- Pour les salaires, utilisez les données de [talent.com](https://fr.talent.com/salary);
+- Pour les cotisations sociales, utilisez le simulateur de [Pole emploi](https://entreprise.pole-emploi.fr/cout-salarie/);
 
 ### Uniquement pour les méthodes classiques
 
-2.1 Identifier toutes les tâches à réaliser
+2.1 Identifiez toutes les tâches à réaliser
 
 2.2 Priorisez et ordonnez vos tâches en fonction des dépendances
 
 2.3 Réalisez un diagramme de Gantt (DG)
 - Utilisez ce [modèle de DG](./ressources/gantt/modele_diagramme_gantt.xltx)
+
+2.4 Calculez le budget prévisionnel sans appliquer la marge commerciale pour le moment.
+- Pour les salaires, utilisez les données de [talent.com](https://fr.talent.com/salary);
+- Pour les cotisations sociales, utilisez le simulateur de [Pole emploi](https://entreprise.pole-emploi.fr/cout-salarie/);
 
 ---
 
