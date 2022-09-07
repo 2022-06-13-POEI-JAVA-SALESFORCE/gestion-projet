@@ -2,22 +2,20 @@
 
 Pour les calculs, vous pouvez vous appuyez sur la grille de salaires ci-dessous.
 
+**Pour simplifier les calculs on va estimer que les charges correspondent à 40 % de la rémunération brut du salarié**
+
 1. Calculez le **coût total de la réunion**.
-
-- **Pour avoir les mêmes bases partez des salaires juniors (Faible) pour chaque participant**.
-
-- **Pour simplifier les calculs on va estimer que les charges correspondent à 40 % donc le cout tôtal = salaire * 1.4**
 
 2. **Échangez vos résultats** entre les groupes
 
-- Groupe 1 partage son travail avec le groupe 2
-- Groupe 2 partage son travail avec le groupe 3
-- Groupe 3 partage son travail avec le groupe 1
+- Groupe 1 partage son travail avec le groupe 2;
+- Groupe 2 partage son travail avec le groupe 3;
+- Groupe 3 partage son travail avec le groupe 1;
 
-3. Comparez et analysez vos travaux.
-- Évaluez la pertinence de la réunion (objectifs et ordre du jour)
-- Évaluez la pertinence et la nécessité des autres participants (en dehors du client et du chef de projet)
-- Évaluez la durée et le cout de la réunion
+3. **Comparez et analysez vos travaux**.
+- Évaluez la **pertinence de la réunion** (objectifs et ordre du jour);
+- Évaluez la **pertinence des autres participants** (en dehors du client et du chef de projet);
+- Évaluez la durée et le coût de la réunion;
 
 ## Cout charges d'entreprise
 
@@ -29,69 +27,72 @@ Source [talent.com](https://fr.talent.com/salary)
 
 ###### Chef de projet
 
-- Faible : 16.67 €
-- Médian : 21.28 €
-- Élevé : 28.21 €
+- Junior : 16.67 €
+- Confirmé : 21.28 €
+- Senior : 28.21 €
+
+###### Business Analyst
+
+- Junior : 20.19 €
+- Confirmé : 24.73 €
+- Senior : 35.70 €
 
 ###### SCRUM Master
 
-- Faible : 20.05 €
-- Médian : 23.08 €
-- Élevé : 29.29 €
+- Junior : 20.05 €
+- Confirmé : 23.08 €
+- Senior : 29.29 €
 
 ###### Product owner
 
-- Faible : 20.51 €
-- Médian : 24.13 €
-- Élevé : 32.05 €
+- Junior : 20.51 €
+- Confirmé : 24.13 €
+- Senior : 32.05 €
 
 ###### Lead développeur
 
-- Faible : 21.79 €
-- Médian : 25.64 €
-- Élevé : 33.33 €
-
+- Junior : 21.79 €
+- Confirmé : 25.64 €
+- Senior : 33.33 €
 
 ###### Développeur Salesforce
 
-- Faible : 20 €
-- Médian : 24.62 €
-- Élevé : 100 €
-
+- Junior : 20 €
+- Confirmé : 24.62 €
+- Senior : 100 €
 
 ###### Développeur Java
 
-- Faible : 17.95 €
-- Médian : 20.51 €
-- Élevé : 26.59 €
+- Junior : 17.95 €
+- Confirmé : 20.51 €
+- Senior : 26.59 €
 
 ###### Développeur Web
 
-- Faible : 15.38 €
-- Médian : 17.95 €
-- Élevé : 23.08 €
-
+- Junior : 15.38 €
+- Confirmé : 17.95 €
+- Senior : 23.08 €
 
 ###### Responsable CRM
 
-- Faible : 20.63 €
-- Médian : 25.64 €
-- Élevé : 32.05 €
+- Junior : 20.63 €
+- Confirmé : 25.64 €
+- Senior : 32.05 €
 
 ###### Délégué à la protection des données
 
-- Faible : 41.54 €
-- Médian : 45.13 €
-- Élevé : 48.72 €
+- Junior : 41.54 €
+- Confirmé : 45.13 €
+- Senior : 48.72 €
 
 ###### UX/UI designer
 
-- Faible : 17.95 €
-- Médian : 21.28 €
-- Élevé : 28.23 €
+- Junior : 17.95 €
+- Confirmé : 21.28 €
+- Senior : 28.23 €
 
 ###### Graphiste
 
-- Faible : 12.05 €
-- Médian : 13.61 €
-- Élevé : 18.46 €
+- Junior : 12.05 €
+- Confirmé : 13.61 €
+- Senior : 18.46 €
