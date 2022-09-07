@@ -5,8 +5,8 @@ A partir de votre analyse des risques et tableau comparatif des solutions
 1. Choisissez une solution depuis votre matrice de décision.
 
 2. En fonction de la méthodologie de travail
- - Classiques : planifier votre phase de lancement du projet ()
- - SCRUM : planifier votre premier sprint en choisissant l'objectif du sprint + User stories + plan d'action
+ - Classiques : planifier votre phase de lancement du projet
+ - SCRUM : planifier votre premier sprint en choisissant l'*objectif du sprint* + *User Stories* + *Plan d'action*
 
 3. Indiquez vos actions pour piloter le projet.
 
@@ -14,23 +14,23 @@ A partir de votre analyse des risques et tableau comparatif des solutions
 
 ### Scenarios survenus lors du déroulement de votre projet avec la méthode SCRUM 
 
-PS : tenir compte des éléments suivants si vous avez opté pour méthode agile dans le cas contraire suivre les scénarios des méthodes classiques ci-après.
+PS : tenir compte des éléments suivants si vous avez opté pour une méthode agile dans le cas contraire suivre les scénarios des méthodes classiques ci-après.
 
-4.1 Lors du premier sprint, l'équipe était en avance.
+4.1 Lors du premier sprint, l'équipe était en avance. **Que faites-vous ?**
 
-4.2 Lors du deuxième sprint, l'équipe n'a pas pu finir car un des *US* était mal estimé et beaucoup plus complexe que prévue.
+4.2 Lors du deuxième sprint, l'équipe n'a pas pu finir car un des *US* était mal estimé et beaucoup plus complexe que prévue. **Que faites-vous ?**
 
-4.3 Lors du troisème sprint, l'une de vos risques les plus critiques identifiés en amont, survient. 
+4.3 Lors du troisème sprint, l'un de vos risques les plus critiques identifiés en amont, survient. **Que faites-vous ?** 
 
 4.4 Lors du dernier sprint entamé, le client vous contacte pour ajouter une nouvelle fonctionnalité de manière urgente sur le site web, il s'agit d'offrir la possibilité aux futures acheteurs d'effectuer une visite virtuelle de l'appartement depuis votre solution à cause des restrictions de circulation due à une pandémie.
 
 ### Scenarios survenus lors du déroulement de votre projet avec une méthode classique
 
-4.1 Durant la phase d'analyse des besoins l'équipe était en retard de 4 jours par rapport au planning initial.
+4.1 Durant la phase d'analyse des besoins l'équipe, vous constaté que était en retard de 4 jours par rapport au planning initial. Que faites-vous ?
 
-4.2 Lors de la phase de conception, l'équipe se rend compte qu'un besoin a été mal exprimé.
+4.2 Lors de la phase de conception, l'équipe se rend compte qu'un besoin a été mal exprimé. Que faites-vous ?
 
-4.3 Durant la phase de réalisation, l'équipe a pris de l'avance et demander à livrer plus tôt que prévu la recette au client.
+4.3 Durant la phase de réalisation, l'équipe a pris de l'avance et demander à livrer plus tôt que prévu la recette au client. Que faites-vous ?
 
 4.4 Vous êtes pile poil dans les temps pour effectuer la recette comme prévu dans 2 jours, le client vous contacte pour ajouter une nouvelle fonctionnalité de manière urgente sur le site web, il s'agit d'offrir la possibilité aux futures acheteurs d'effectuer une visite virtuelle de l'appartement depuis votre solution à cause des restrictions de circulation due à une pandémie.
 
